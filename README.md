@@ -12,6 +12,17 @@ Sou estudante de **Ciências da Computação** e atuo na área de tecnologia, co
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </div>
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BruMB25&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruMB25&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruMB25&theme=dark&hide_border=true" />
+</p>
+
 ### 🚀 O que estou fazendo agora
 - 🔭 Desenvolvendo projetos práticos em **Python** e **Java**.
 - 🌱 Aprimorando meus conhecimentos em **SQL e dados**.
